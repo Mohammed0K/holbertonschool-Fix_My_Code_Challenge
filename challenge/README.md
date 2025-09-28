@@ -11,7 +11,7 @@
 - Sometimes you will know the language, sometimes not.  
 - You should **not** recode everything, just **fix it**!  
 
-🔗 Repository to use: [Fix_My_Code_Challenge](https://github.com/holbertonschool-Fix_My_Code_Challenge)
+🔗 Repository to use: [Fix_My_Code_Challenge](https://github.com/Mohammed0K/holbertonschool-Fix_My_Code_Challenge)
 
 ---
 
@@ -30,8 +30,10 @@ File: `0-fizzbuzz.py`
 Issue: `15` should print **FizzBuzz**, not Fizz.  
 
 Example:
+
 ```
 $ ./0-fizzbuzz.py 50
+```
 1 2 Fizz 4 Buzz Fizz 7 8 Fizz Buzz ...
 
 ---
