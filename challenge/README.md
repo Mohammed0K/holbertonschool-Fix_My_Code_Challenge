@@ -44,7 +44,8 @@ File: 1-print_square.js
 Issue: Printing wrong size of square.
 
 Example:
-$ ./1-print_square.js 4
+``` $ ./1-print_square.js 4 
+```
 ####
 ####
 ####
@@ -58,7 +59,9 @@ File: 2-sort.rb
 Issue: Wrong sorting order of arguments.
 
 Example:
-$ ruby 2-sort.rb 12 41 2 C 9 -9 31 fun -1 32
+```$ ruby 2-sort.rb 12 41 2 C 9 -9 31 fun -1 32
+```
+```
 31
 32
 12
@@ -67,7 +70,7 @@ $ ruby 2-sort.rb 12 41 2 C 9 -9 31 fun -1 32
 9
 -9
 -1
-
+```
 ---
 
 3. User Password (Python)
@@ -76,7 +79,8 @@ File: 3-user.py
 Issue: is_valid_password should return True if password is correct, but tests are failing.
 
 Example:
-$ ./3-user.py
+``` $ ./3-user.py 
+```
 Test User
 is_valid_password should return True if it's the right password
 
@@ -88,9 +92,10 @@ Directory: 4-delete_dnodeint/
 Issue: Output does not match expected linked list deletion behavior.
 
 Example:
-
+```
 $ gcc -Wall -pedantic -Werror -Wextra -std=gnu89 main.c free_dlistint.c ...
 $ ./delete_dnodeint
+```
 # Wrong linked list output shown
 
 ---
